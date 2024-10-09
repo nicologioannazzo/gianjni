@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+   <style>
+       #miascatola1{background-color: rgb(245, 8, 245);width: 100px;height: 300px;border: 1xp solid black; margin: 5px; padding: 3px;}
+       #miascatola2{ background-color: rgb(23, 206, 206);width: 100px;height: 300px;border: 1xp solid black; margin: 5px; padding: 3px;}
+       #miascatola3{ background-color: rgb(38, 187, 38);width: 100px;height: 300px;border: 1xp solid black; margin: 5px; padding: 3px;}
+       #miascatola4{ background-color: rgb(26, 26, 199);width: 100px;height: 300px;border: 1xp solid black; margin: 5px; padding: 3px;}
+       #miascatola5{ background-color: rgb(173, 17, 17);width: 100px;height: 300px;border: 1xp solid black; margin: 5px; padding: 3px;}
+
+   </style>
+
+</head>
+<body>
+    <div id="miascatola1">  
+        “Sii il cambiamento che vorresti vedere avvenire nel mondo.”
+    </div>
+
+    <div id="miascatola2">  
+        “Il mondo è un posto pericoloso, non a causa di quelli che compiono azioni malvagie ma per quelli che osservano senza fare nulla.”
+    </div>
+    
+    <div id="miascatola3">  
+        “Se ti droghi ti capisco, perché il mondo ti fa schifo; se non lo fai ti ammiro, perché sei in grado di combatterlo.”
+    </div>
+ 
+    <div id="miascatola4">  
+        “Un bambino, un insegnante, un libro e una penna possono cambiare il mondo.”
+    </div>
+    
+    <div id="miascatola5">  
+        “Più che per la repressione, soffro per il silenzio del mondo.”
+    </div>
+
+
+</body>
+</html>
